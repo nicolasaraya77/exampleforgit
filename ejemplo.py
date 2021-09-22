@@ -5,6 +5,6 @@ def sumar(a, b):
 
 value1 = 45
 value2 = 100
-result = sumar(value1, value2)
+result = Sumar(value1, value2)
 
 print(result)
